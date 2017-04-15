@@ -1,4 +1,4 @@
-# Futbol24.com-Scraper
+# Futbol24.com Scraper
 This script is designed for scraping results of selected team from Futbol24.com.
 
 It saves results in JSON file.
